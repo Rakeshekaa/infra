@@ -1,2 +1,2 @@
 #!/bin/sh
- /usr/bin/ansible-playbook power_down_all.yml
+/usr/bin/ansible-playbook power_down_all.yml
